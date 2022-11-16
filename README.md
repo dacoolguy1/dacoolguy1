@@ -9,7 +9,7 @@ I'm a full stack mobile developer from Lagos, Nigeria
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on my Nodjes skills
 
-🧠 I'm currently Advancing my Software Engineering
+🧠 I'm currently Advancing my Software Engineering Skills with ALX Africa
 
 👯‍♀️ I'm looking to collaborate on any project related to Flutter or NodeJs
 
