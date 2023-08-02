@@ -27,6 +27,10 @@ Javascript, HTML, CSS, Dart, C#, C, Python, flask, Mongodb
 ## 📊 GitHub Stats
 ![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dacoolguy1&show_icons=true&count_private=true&hide=prs&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dacoolguy1&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dacoolguy1&layout=compact&theme=radical)
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@dacoolguy1/Zuri-css-task-1?v=1)
