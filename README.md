@@ -25,7 +25,7 @@ Javascript, HTML, CSS, Dart, C#, C, Python, flask, Mongodb
 
 
 ## 📊 GitHub Stats
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dacoolguy1&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 
 ## 🔗 Links
