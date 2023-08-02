@@ -11,7 +11,7 @@ I'm a full stack mobile developer from Lagos, Nigeria
 
 🧠 I'm currently Advancing my Software Engineering Skills with ALX Africa
 
-👯‍♀️ I'm looking to collaborate on any project related to Flutter or NodeJs
+👯‍♀️ I'm looking to collaborate on any project related to Flutter, NodeJs or Flask
 
 💬 Ask me about anything
 
@@ -21,7 +21,11 @@ I'm a full stack mobile developer from Lagos, Nigeria
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Dart, C#, C, Python
+Javascript, HTML, CSS, Dart, C#, C, Python, flask, Mongodb
+
+
+## 📊 GitHub Stats
+![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 
 ## 🔗 Links
